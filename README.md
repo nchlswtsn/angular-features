@@ -1,1 +1,1 @@
-GULP Template for rapid Angular startup
+Combination of Angular features for testing
